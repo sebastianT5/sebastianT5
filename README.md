@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 
 <h1 align="center">Hi 👋, I'm Sebastian Tejada</h1>
-<h3 align="center">A passionate student from California, US</h3>
+<h3 align="center">A passionate high school sophomore from California</h3>
 
 <img align="right" alt="Coding" width="400" src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif">
 
