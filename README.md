@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Mars Rover 1:4 Replica**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking to collaborate on **AI projects**
 
