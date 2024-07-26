@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking to collaborate on **AI projects**
 
-- 👨‍💻 All of my projects are available at [(https://sebastiant5.github.io/sebastian_portfolio/)]
+- 👨‍💻 All of my projects are available at: https://sebastiant5.github.io/sebastian_portfolio/
 
 - 📫 How to reach me **sebastianlight14@gmail.com**
 
