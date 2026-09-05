@@ -1,4 +1,4 @@
-### Hello World! 👋 
+### Hello World! 👋 👨‍💻
 
 - 🏛️ I am a student at UC Berkeley studying Data Science in the College of Computing, Data Science, and Society.
 - 🎓 I'm interested in learning about the intersection between DS, EE, and Neuroscience.
