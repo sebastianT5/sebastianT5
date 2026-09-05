@@ -5,9 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sebastiant5&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiant5" /> 
-</p>
 
 
 - 🔭 I’m currently working on **Mars Rover 1:4 Replica**
